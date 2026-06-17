@@ -1,7 +1,7 @@
 -- ============================================================
 -- SISTEM INFORMASI TAHFIDZ KB/BA/TPA "RESTU 2"
 -- Clean Database Schema & Initial Master Data
--- Generated: 2026-06-16 09:39:26
+-- Generated: 2026-06-16 10:46:05
 -- ============================================================
 
 SET FOREIGN_KEY_CHECKS = 0;
@@ -26,8 +26,8 @@ CREATE TABLE `users` (
 INSERT INTO `users` VALUES
 ('1', '000001', '$2y$10$KtTf6qvGohglcdCS5WfND.khdtUU1o2kMH3VUrm8J/hDcefhhSJRm', 'admin', '1', '2026-06-16 16:12:55', '2026-05-31 06:57:40'),
 ('2', 'NUPTK', '$2y$10$1CQ86SLDVI85fryXfqia.OUTZcXiLAaVMc4tCoMV7O1v5SYvPVAje', 'guru', '1', NULL, '2026-05-31 06:58:23'),
-('3', '8460-7566-5730-0022', '$2y$10$x2DXJ2SP/b9BFrUGGEjtYeS.Ago35q0kAmNQdREreNyUlDbbC3hCm', 'guru', '1', '2026-06-13 15:20:11', '2026-05-31 06:58:23'),
-('4', '6647-7456-4830-0052', '$2y$10$ddGaHLPmX0rKgLl6hj4H2OTUx8OWuM/o7d3Ok9HNBBlWsbQW.rtD.', 'guru', '1', '2026-06-16 16:01:43', '2026-05-31 06:58:23'),
+('3', '8460-7566-5730-0022', '$2y$10$x2DXJ2SP/b9BFrUGGEjtYeS.Ago35q0kAmNQdREreNyUlDbbC3hCm', 'guru', '1', '2026-06-16 17:12:39', '2026-05-31 06:58:23'),
+('4', '6647-7456-4830-0052', '$2y$10$ddGaHLPmX0rKgLl6hj4H2OTUx8OWuM/o7d3Ok9HNBBlWsbQW.rtD.', 'guru', '1', '2026-06-16 17:13:34', '2026-05-31 06:58:23'),
 ('5', '6641-7456-4830-0032', '$2y$10$zSK5G8EJQ..a6gN2MJgDl.IgcYV54UMWAYsPfJlV7x4RhWGSXP.JK', 'guru', '1', NULL, '2026-05-31 06:58:24'),
 ('6', '2149-7506-5030-0003', '$2y$10$oZnOriNlYRU7k8UTPwWrvuI3vrU26bcTwo0v2M2q3/PxQ2Gt.nJhe', 'guru', '1', NULL, '2026-05-31 06:58:24'),
 ('7', '5858-7616-6230-0012', '$2y$10$no3axd7yUHpPvMkaHEqYqupM4S8JtdV65KTgqeauz49XOdlXlpmBe', 'guru', '1', NULL, '2026-05-31 06:58:24'),
